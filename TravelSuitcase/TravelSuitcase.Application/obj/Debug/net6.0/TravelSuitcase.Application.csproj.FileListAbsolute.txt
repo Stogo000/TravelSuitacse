@@ -1,0 +1,15 @@
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\bin\Debug\net6.0\TravelSuitcase.Application.deps.json
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\bin\Debug\net6.0\TravelSuitcase.Application.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\bin\Debug\net6.0\TravelSuitcase.Application.pdb
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\bin\Debug\net6.0\TravelSuitcase.Domain.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\bin\Debug\net6.0\TravelSuitcase.Domain.pdb
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.AssemblyInfo.cs
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.csproj.CopyComplete
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\refint\TravelSuitcase.Application.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\TravelSuitcase.Application.pdb
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Application\obj\Debug\net6.0\ref\TravelSuitcase.Application.dll

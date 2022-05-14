@@ -1,0 +1,12 @@
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.deps.json
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.pdb
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.AssemblyInfo.cs
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\refint\TravelSuitcase.Domain.dll
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.pdb
+C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\ref\TravelSuitcase.Domain.dll
