@@ -2,7 +2,7 @@
 {
     public static class EmailConstants
     {
-        public const int Min = 10;
+        public const int Min = 6;
 
         public const int Max = 40;
 
