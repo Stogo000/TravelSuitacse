@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
+      "projectUniqueName": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
       "projectName": "TravelSuitcase.Application",
-      "projectPath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
+      "projectPath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\obj\\",
+      "outputPath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -928,8 +928,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj": {
-              "projectPath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj"
+            "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj": {
+              "projectPath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj"
             }
           }
         }
@@ -972,7 +972,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

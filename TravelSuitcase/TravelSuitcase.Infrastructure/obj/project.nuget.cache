@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ddA3SXIs9pgiKcGNYMeARNHeJK+9NUGAA1+7pN+WWZHxJgy7VT0QpwdTU4VZSBgF+KrHaccE+BHjimAb7uwcQ==",
+  "dgSpecHash": "wb7tHzNgraq6carufDOLRNX57IASGpRH2lusZrxxvSzFISF2S521Nw9XLTCTYKTt2jSmxyYD9AhwcF183ouV5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Infrastructure\\TravelSuitcase.Infrastructure.csproj",
+  "projectFilePath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Infrastructure\\TravelSuitcase.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

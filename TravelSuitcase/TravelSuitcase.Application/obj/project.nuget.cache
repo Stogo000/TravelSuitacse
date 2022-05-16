@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2R+IdnlPWEOA0Vb9ap17hUvmh6fTykFF17U1HpmHKtNUSPF0EBWAkQxs+vEPYewLOMLmgz4yCD816DQMBsmD1Q==",
+  "dgSpecHash": "hrS1qWjoDYERqH98m8QwJ7UakHUr3l+BfenZoA89UueazmsijRYjOiCw529+cwuUc1Nrw9JC6u4XnEHjU/UoDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
+  "projectFilePath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Application\\TravelSuitcase.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

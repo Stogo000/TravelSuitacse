@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixPp7iRTRCKBXlWTns8vVsTNq40XeEkosMocWFRCzeCyEoPD6K/HsSJWyNnnJNImWNEOLtoeDa0rkWLfbZZSRA==",
+  "dgSpecHash": "rEE2zyWxnSLB1IlyRhnj0b7HGNbPSNlHDLe9p8yARY1vjk+qioN6m+ZrAiky8kaUOYx+FIp//s6fcsIZKe0zVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\Desktop\\Github\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj",
+  "projectFilePath": "D:\\Projekty\\TravelSuitcase\\TravelSuitacse\\TravelSuitcase\\TravelSuitcase.Domain\\TravelSuitcase.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
