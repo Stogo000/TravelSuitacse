@@ -22,29 +22,6 @@ namespace TravelSuitcase.Infrastructure.Persistence.Repositories.Users
             _securityService = securityService;
         }
 
-        public virtual async Task<User> CreateAsync(CreateUserDTO userDto, CancellationToken cancellationToken = default)
-        {
-            if (userDto is null)
-            {
-                throw new IllegalOperationException<UserDtoException>(UserDtoException.CannotBeNull);
-            }
-
-            if (await EmailExistsAsync(userDto.EmailAddress, cancellationToken))
-            {
-                throw new IllegalOperationException<EmailExceptions>(EmailExceptions.AlreadyExists);
-            }
-
-            byte[] newSalt = _passwordHashService.GenerateSalt();
-
-            string hashedPassword = _passwordHashService.ComputeHash(userDto.Password, newSalt);
-
-            User user = new(userDto.Login,userDto.EmailAddress, hashedPassword, newSalt);
-
-            await AddAsync(user, cancellationToken);
-
-            return user;
-        }
-
         public async Task<RefreshTokenDTO> LogInAsync(LoginDTO loginDto, CancellationToken cancellationToken = default)
         {
             if (!await LoginExistsAsync(loginDto.Login, cancellationToken))
@@ -52,10 +29,12 @@ namespace TravelSuitcase.Infrastructure.Persistence.Repositories.Users
                 throw new IllegalOperationException<LoginExceptions>(LoginExceptions.NotExists);
             }
             User user = await DbSet.FirstOrDefaultAsync(u => u.Login.Equals(loginDto.Login));
+
             bool isEqualHash = _passwordHashService.IsHashEqual(
                 loginDto.Password,
                 user.Password,
                 user.PasswordSalt);
+
             if (!isEqualHash)
             {
                 throw new IllegalOperationException<PasswordSaltException>(PasswordSaltException.InvalidPassword);

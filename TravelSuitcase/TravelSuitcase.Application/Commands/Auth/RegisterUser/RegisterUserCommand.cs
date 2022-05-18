@@ -1,9 +1,6 @@
 ﻿using MediatR;
-using TravelSuitcase.Application.Common;
 using TravelSuitcase.Domain.Common.DTOs;
-using TravelSuitcase.Domain.Entities;
-using TravelSuitcase.Domain.Repositories.Users;
-using TravelSuitcase.Domain.Services;
+using TravelSuitcase.Domain.Managers.Users;
 
 namespace TravelSuitcase.Application.Commands.Auth.RegisterUser
 {
@@ -16,16 +13,16 @@ namespace TravelSuitcase.Application.Commands.Auth.RegisterUser
 
     public class RegisterUserCommandHandler : IRequestHandler<RegisterUserCommand, Unit>
     {
-        private IUserRepository _userRepository;
+        private UserManager _userManager;
 
-        public RegisterUserCommandHandler(IUserRepository userRepository)
+        public RegisterUserCommandHandler(UserManager userManager)
         {
-            _userRepository = userRepository;
+            _userManager = userManager;
         }
 
         public async Task<Unit> Handle(RegisterUserCommand request, CancellationToken cancellationToken)
         {
-            await _userRepository.CreateAsync(new CreateUserDTO(request.Email, request.Login, request.Password));
+            await _userManager.CreateAsync(new CreateUserDTO(request.Email, request.Login, request.Password));
             return await Task.FromResult(Unit.Value);
         }
     }

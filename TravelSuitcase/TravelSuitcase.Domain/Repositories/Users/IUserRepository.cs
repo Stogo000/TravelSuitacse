@@ -10,8 +10,6 @@ namespace TravelSuitcase.Domain.Repositories.Users
 
         Task<User> FindByEmailAsync(string email, CancellationToken cancellationToken = default);
 
-        Task<User> CreateAsync(CreateUserDTO user, CancellationToken cancellationToken = default);
-
         Task<bool> LoginExistsAsync(string login, CancellationToken cancellationToken = default);
 
         Task<User> FindByLoginAsync(string login, CancellationToken cancellationToken = default);
