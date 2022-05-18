@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TravelSuitcase.Domain\TravelSuitcase.Domain.csproj" />
+    <ProjectReference Include="..\TravelSuitcase.Infrastructure\TravelSuitcase.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

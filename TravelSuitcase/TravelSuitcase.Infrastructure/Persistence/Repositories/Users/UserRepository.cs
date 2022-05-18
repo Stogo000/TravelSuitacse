@@ -22,7 +22,7 @@ namespace TravelSuitcase.Infrastructure.Persistence.Repositories.Users
             _securityService = securityService;
         }
 
-        public async Task<User> CreateAsync(CreateUserDTO userDto, CancellationToken cancellationToken = default)
+        public virtual async Task<User> CreateAsync(CreateUserDTO userDto, CancellationToken cancellationToken = default)
         {
             if (userDto is null)
             {

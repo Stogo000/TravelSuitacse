@@ -10,3 +10,15 @@ C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\Trave
 C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\refint\TravelSuitcase.Domain.dll
 C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.pdb
 C:\Users\filip\Desktop\Github\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\ref\TravelSuitcase.Domain.dll
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.deps.json
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.dll
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\bin\Debug\net6.0\TravelSuitcase.Domain.pdb
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.csproj.AssemblyReference.cache
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.AssemblyInfoInputs.cache
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.AssemblyInfo.cs
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.csproj.CoreCompileInputs.cache
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.dll
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\refint\TravelSuitcase.Domain.dll
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\TravelSuitcase.Domain.pdb
+D:\Projekty\TravelSuitcase\TravelSuitacse\TravelSuitcase\TravelSuitcase.Domain\obj\Debug\net6.0\ref\TravelSuitcase.Domain.dll
